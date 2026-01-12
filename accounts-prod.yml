@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related production APIs "
+  message: "Welcome to EazyBank accounts related productionn APIs "
   contactDetails:
     name: "Mathéo JUSTE - Product Owner"
     email: "{cipher}b3c34ec817e2aa2e045efb2f37e0ae0361ac966f9064d504a1003c78f8da53cb9b341bc7e91d6ce361e8c349fe138892"
