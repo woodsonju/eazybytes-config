@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "Mathéo JUSTE - Product Owner"
-    email: "matheo@eazybank.com"
+    email: "{cipher}b3c34ec817e2aa2e045efb2f37e0ae0361ac966f9064d504a1003c78f8da53cb9b341bc7e91d6ce361e8c349fe138892"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
